@@ -6,7 +6,7 @@ package listeners
 
 import (
 	"github.com/xlango/npipe"
-	"log/slog"
+	"golang.org/x/exp/slog"
 	"net"
 	"sync"
 	"sync/atomic"
